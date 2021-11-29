@@ -1,0 +1,23 @@
+{
+    "Messages": [
+      {
+        "MessageId": "ef5b6baf-ecd2-49bc-ac74-16e208a6f782",
+        "ReceiptHandle": "AQEB1GvGmxRnjMvANlxY6aOdLyWpOwq6YW/+DsOq05zwegGU5GKCsuL8OAY9rV/jvZoYNAASS9Ay1ubAuV7UXTd3eprKk792hr3lk7yluYQXorC0lQAdu94qN9iHdRXTefjbi0KMiNu26/CoEa50z6hesTK22Z2pWnvE7DsOiNHFDqFDKG/YNNUq/KGLdn9DpEr9hj0XRtMAuWi/x3xmmLUsNKA1GW6PKDJXBMaFJQoKOgUXjGSsGRxgJR2hG5Vme4/956vwGKfJUpjZ6KCc9rIAVPQJGZJonCMVRQ1DUtwkl+1aoUMIWPb/5Rr/rJ+CyQrSB3EJBOGd8ycUZHLokDldzxR8fkO4+dYNUWBAobl2F8F+3f5QB6uv5+UYNGHv7TNdjGLahfXkwixM2Ld4lpPo3A==",
+        "MD5OfBody": "34851c364799575d4d3c5ae99866d0af",
+        "Body": "{'name': 'Sideral Restaurante e Pizzaria', 'address': 'Av. Gal. Francisco Glycerio, 562 - Pompéia, Santos - SP, 11065-400', 'business_hours': {'Monday': '11AM–12AM', 'Tuesday': '11AM–12AM', 'Wednesday': '11AM–12AM', 'Thursday': '11AM–12AM', 'Friday': '11AM–12AM', 'Saturday': '11AM–12AM', 'Sunday': '11AM–12AM'}, 'photo_link': 'https://www.google.com/maps/vt/pb=!1m5!1m4!1i11!2i1519!3i2328!4i128!2m2!1e1!3i908!3m9!2sen!3sbr!5e1105!12m1!1e4!12m1!1e47!12m1!1e3!4e0!5m1!1e0!23i10203575!23i1381033!23i1368782!23i1368785!23i4592408!23i1375050!23i4536287!23i47036754', 'rate': '4.6', 'reviews': '1,833 reviews', 'extra_attrs': {'Website: restaurantesideral.com.br ': 'restaurantesideral.com.br', 'Phone: (13) 3225-2339 ': '(13) 3225-2339', 'Plus code: 2MP4+JG Pompéia, Santos - State of São Paulo': '2MP4+JG Pompéia, Santos - State of São Paulo', None: 'LGBTQ+ friendly'}, 'traits': {'Service options': ['No-contact delivery', 'Delivery', 'Takeaway', 'Dine-in'], 'Highlights': ['Fast service', 'Great cocktails'], 'Accessibility': ['Wheelchair-accessible entrance', 'Wheelchair-accessible seating', 'Wheelchair-accessible toilet'], 'Offerings': ['Alcohol', 'Beer', 'Cocktails', 'Coffee', 'Happy-hour drinks', 'Healthy options', \"Kids' menu\", 'Late-night food', 'Quick bite', 'Salad bar', 'Small plates', 'Spirits', 'Wine'], 'Dining options': ['Lunch', 'Dinner', 'Catering', 'Dessert', 'Seating'], 'Amenities': ['Bar on site', 'Gender-neutral toilets', 'Good for kids', 'High chairs', 'Toilets', 'Free Wi-Fi'], 'Atmosphere': ['Casual', 'Cosy'], 'Crowd': ['Family friendly', 'Groups', 'LGBTQ+ friendly', 'Transgender safe space'], 'Planning': ['Accepts reservations'], 'Payments': ['Debit cards', 'NFC mobile payments', 'Credit cards']}}",
+        "Attributes": {
+          "SenderId": "AROATLMRPSWKBES5PAFXV:botocore-session-1638196823",
+          "ApproximateFirstReceiveTimestamp": "1638197183862",
+          "ApproximateReceiveCount": "3",
+          "SentTimestamp": "1638196836455"
+        },
+        "MD5OfMessageAttributes": "b808bf997ad60578104b607d59035e3b",
+        "MessageAttributes": {
+          "place_id": {
+            "StringValue": "2MP4+JG Pompéia, Santos - State of São Paulo",
+            "DataType": "String"
+          }
+        }
+      }
+    ]
+  }
